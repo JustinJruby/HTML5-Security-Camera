@@ -1,6 +1,7 @@
 window.App = App = {
 	
-	URL : "http://html5securitycam.jit.su:80",
+	//URL : "http://html5securitycam.jit.su:80",
+    URL : "http://localhost:8080",
 
 	init : function( selector ) {
 
